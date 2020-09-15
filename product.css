@@ -43,7 +43,7 @@ margin-bottom: 30px;
 }
 .card_web h5{
 
-font-size: 24px;
+font-size: 22px;
 
 text-transform: uppercase;
 
@@ -55,7 +55,7 @@ font-size: 25px;
 }
 .card_digital h5{
 	
-font-size: 28px;
+font-size: 20px;
 	
 text-transform: uppercase;
 	
@@ -111,7 +111,7 @@ margin-top: 30px;
 	color: #fff;
 	background-color: #171a1d;
 	border-color: #171a1d;
-	margin-top: 27px;
+	margin-top: -11px;
 }
 
 .digital_button:hover{
